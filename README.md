@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crop Disease Prediction Chatbot
 
 ## Project Overview
@@ -66,4 +67,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any queries, please contact: vaishnavi.pagar@example.com
+=======
+>>>>>>> a5c9b928907d5adf29bfdf3d63c012c5a6d238e5
 
