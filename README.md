@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crop Disease Prediction Chatbot
 
 ## Project Overview
@@ -66,7 +65,5 @@ The model is trained on publicly available crop disease datasets, which include 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries, please contact: vaishnavi.pagar@example.com
-=======
->>>>>>> a5c9b928907d5adf29bfdf3d63c012c5a6d238e5
+For any queries, please contact: vaishnavipagar31@gmail.com
 
